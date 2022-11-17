@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi primera aplicacion</string>
+    <string name="Username">nombre de usuario</string>
+    <string name="Password">Contraseña</string>
+</resources>
